@@ -1,1 +1,1 @@
-function gearup:gearup
+function gearup:armor
